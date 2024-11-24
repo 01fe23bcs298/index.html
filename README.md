@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Hello, I'm [Your Name] 👋</h1>
+        <h1>Hello, I'm [Praveen Angadi] 👋</h1>
         <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
     </header>
 
@@ -42,16 +42,16 @@
             <dd>Course Code Placeholder</dd>
 
             <dt>Name</dt>
-            <dd>Your Name</dd>
+            <dd>Praveen Angadi</dd>
 
             <dt>SRN</dt>
-            <dd>Your SRN</dd>
+            <dd>01FE23BCS298</dd>
 
             <dt>Course Instructor</dt>
-            <dd>Instructor Name Placeholder</dd>
+            <dd>Prakash Hegade</dd>
 
             <dt>University</dt>
-            <dd>Your University Name</dd>
+            <dd>KLE Technological University</dd>
 
             <dt>Portfolio Topic/Domain</dt>
             <dd>Google</dd>
